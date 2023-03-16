@@ -1,0 +1,4 @@
+1 minthukha 9/paoola(N)123456 minthukha25122003@gmail.com tour personal T 10000 1000 0.3 old 3 959975483307 30000 pyinoolwin 1000 bank
+2 admin2 9/paoola(N)123456 admin2@gmail.com tour personal T 10000 1000 0.3 old 3 95975484788 30000 pyinoolwin 1000 bank
+3 default 9/paoola(N)123456 admin3@gmail.com tour personal T 10000 1000 0.3 new 3 959754541391 30000 pyinoolwin 1000 bank
+4 bankuser 9/paoola(N)123456 bankuser@gmail.com tour personal T 10000 1000 0.3 new 3 959754178423 30000 pyinoolwin 1000 bank
